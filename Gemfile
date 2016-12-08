@@ -32,6 +32,8 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 # like font-awesome. I like the asset pipeline. I like semantic versioning. If you do too, you're welcome.
 gem 'font-awesome-rails', '~> 4.7'
 
+#Client library and command-line tool to deploy and manage apps on Heroku.
+gem 'heroku', '~> 3.43', '>= 3.43.15'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
