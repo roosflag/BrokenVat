@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+ @import "bootstrap-sprockets";
+ @import "bootstrap";
+ .Title {
+   font-family: 'Old Standard TT', serif;
+ }
