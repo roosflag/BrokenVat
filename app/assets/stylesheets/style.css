@@ -14,7 +14,7 @@
 
 /* Clear Floated Elements
 ---------------------------------*/
-font-family: 'Old Standard TT', serif;
+
 .clear {
   clear: both;
   display: block;
