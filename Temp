@@ -4,3 +4,16 @@
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+<nav class="main_nav">
+  <div class="container-fluid">
+    <ul class="main_nav_list">
+      <li class="main_nav_link_item"><a href="#" class="main_nav_link">Home</a></li>
+      <li class="main_nav_link_item"><a href="#" class="main_nav_link">Other</a></li>
+      <li class="main_nav_link_item"><a href="#" class="main_nav_link_image"><%= image_tag "logo_2_small"%></a></li>
+      <li class="main_nav_link_item"><a href="#" class="main_nav_link">Other2</a></li>
+      <li class="main_nav_link_item"><a href="#" class="main_nav_link">Other3</a></li>
+    </ul>
+
+  </div>
+</nav><!--main-nav-end-->
